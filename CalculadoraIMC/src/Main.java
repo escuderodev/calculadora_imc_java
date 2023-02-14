@@ -11,6 +11,5 @@ public class Main {
         tela.setVisible(true);
         tela.setLocationRelativeTo(null);
         tela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
     }
 }
