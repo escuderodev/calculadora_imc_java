@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalculadoraIMC:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="CalculadoraIMC.jar">
+      <element id="module-output" name="CalculadoraIMC" />
+    </root>
+  </artifact>
+</component>
